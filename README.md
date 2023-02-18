@@ -4,7 +4,7 @@
 Getting Started
 To access the website, simply visit https://wolkenhost.com/ in your web browser. There is no need to install any software or set up any environment.
 
-  <p>Features:</p>
+  
 The website includes the following features:
 
 Home page with a brief introduction and links to your social media profiles
@@ -13,6 +13,7 @@ Portfolio page with your past projects and works
 Contact page with a contact form for visitors to send you messages
 Responsive design that works on all devices and screen sizes
 Technologies Used
+
 The website is built using the following technologies:
 
 HTML
